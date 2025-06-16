@@ -1,1 +1,1 @@
-# koko
+# Dead chicken object detection
